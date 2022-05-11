@@ -1,0 +1,1 @@
+lvl:10,intel:15,str:28,dex:20,def:14,id:15,hp:100,mp:25
