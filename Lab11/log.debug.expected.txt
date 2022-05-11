@@ -1,0 +1,6 @@
+TRACE: User 2 updated email from "email2@pocustudent.academy" to "n@gmail.com"
+TRACE: User 2 updated password from "password2" to "n"
+TRACE: User 2 updated email from "n@gmail.com" to "ne@gmail.com"
+TRACE: User 2 updated password from "n" to "ne"
+TRACE: User 2 updated email from "ne@gmail.com" to "newemail@gmail.com"
+TRACE: User 2 updated password from "ne" to "newpasswordishere"

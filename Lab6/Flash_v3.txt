@@ -1,0 +1,2 @@
+name        |    level    |    health    |    mana    |    strength    |    dexterity    |    intelligence    |    armour    |    evasion    |    fire_res    |    cold_res    |    lightning_res    |    leadership    |    minion_count
+Flash_v3    |    50       |    280       |    55      |    50          |    85           |    30              |    20        |    45         |    10          |    10          |    10               |    12            |    0
