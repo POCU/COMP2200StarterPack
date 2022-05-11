@@ -1,0 +1,2 @@
+name,level,strength,dexterity,intelligence,armour,evasion,magic_resistance,health,mana
+Batman_v2,25,30,28,40,20,20,11,130,50

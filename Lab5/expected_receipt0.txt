@@ -1,0 +1,23 @@
+Charles' Seafood
+--------------------------------------------------
+2019-09-26 04:43:17                          00000
+--------------------------------------------------
+                         Magarita            12.45
+                    Sharkfin soup           500.12
+                     Kingcrab dip           125.99
+              Deep fried scallops             7.36
+                         Tacoyaki             6.89
+                   Salmon sashimi            16.54
+                     Tuna sashimi            15.42
+                       Unagi soup            25.48
+                   Nestea ice tea             5.99
+          Chocolate brownie fudge             8.99
+
+                         Subtotal           725.23
+                              Tip            20.55
+                              Tax            36.26
+                            Total           782.04
+
+Thanks for dining with us!
+==================================================
+                                        Tax#-51234
